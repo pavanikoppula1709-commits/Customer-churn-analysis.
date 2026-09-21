@@ -102,4 +102,3 @@ The project uses the IBM Telco Customer Churn dataset. The data is a customer-le
 Mangalagiri, Andhra Pradesh, India  
 
 * **Email:** pavanikoppula1709@gmail.com
-* **GitHub:** [pavanikoppula1709](https://github.com/pavanikoppula1709)
